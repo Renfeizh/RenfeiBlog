@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Nandan Haloi
+title: Renfei Zhang
 
 # Name pronunciation (optional)
 
 # Full name (for SEO)
-first_name: Nandan
-last_name: Haloi
+first_name: Renfei
+last_name: Zhang
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Marie Curie Postdoctoral Fellow
+role: Business Controller at Booking.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
