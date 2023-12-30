@@ -46,22 +46,22 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Professional Expertise
     items:
-      - name: Python
+      - name: Financial Planning & Modeling
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Data Analysis and Visulization
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Business Cases
         description: ''
-        percent: 40
-        icon: database
+        percent: 70
+        icon: sparkles
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
