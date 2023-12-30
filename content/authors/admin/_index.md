@@ -36,12 +36,12 @@ Expertise:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Biophysics and Quantitative Biology (PI- Emad Tajkhorshid)
+    - course: Master of Science in Accountancy
       institution: University of Illinois at Urbana-Champaign, Illinois, USA
-      year: 2021
-    - course: BTech in Chemical Science and Technology
-      institution: Indian Institute of Technology Guwahati, Assam, India
-      year: 2016
+      year: 2019
+    - course: Master of Management in Accountancy
+      institution: China Agricultural University, Beijing, China
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
