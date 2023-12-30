@@ -61,7 +61,7 @@ skills:
       - name: Business Cases
         description: ''
         percent: 70
-        icon: sparkles
+        icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
