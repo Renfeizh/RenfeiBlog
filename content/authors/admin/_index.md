@@ -16,22 +16,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Business Controller at Booking.com
+role: Business Controller
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KTH Royal Institute of Technology
+  - name: Booking.com
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Molecular dynamics simulations, Experimental data-driven modeling, Ion channels and Ligand-protein interactions.
 
 # Interests to show in About widget
-interests:
-  - Molecular dynamics simulations
-  - Experimental data-driven modeling
-  - Ion channels
-  - Ligand-protein interactions
+Expertise:
+  - Financial planning & Modeling
+  - Financial Reporting
+  - Data Analysis & Visulization
+  - Business Cases
 
 # Education to show in About widget
 education:
